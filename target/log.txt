@@ -1,0 +1,5 @@
+Test Case ID: 		TC-001.01
+URL: 			http://khanacademy.org
+Title Expected: 	Khan Academy
+Title Actial: 		Khan Academy
+Test Case Result: 	PASSED
